@@ -1,5 +1,5 @@
-package Chapter1;
-public class Exercise12_FightSong {
+
+public class ch1ex12_FightSong {
     public static void main(String[] args) {
         shortPart();
         System.out.println();

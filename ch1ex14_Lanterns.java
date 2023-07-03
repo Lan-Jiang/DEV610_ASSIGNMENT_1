@@ -1,6 +1,6 @@
-package Chapter1;
 
-public class Exercise14_Lanterns {
+
+public class ch1ex14_Lanterns {
     public static void main(String[] args) {
         printTop();
         System.out.println();
