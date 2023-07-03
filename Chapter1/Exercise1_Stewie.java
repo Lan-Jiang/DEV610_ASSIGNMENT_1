@@ -1,3 +1,4 @@
+package Chapter1;
 public class Exercise1_Stewie {
     public static void main(String[] args) {
         System.out.println("//////////////////////");
